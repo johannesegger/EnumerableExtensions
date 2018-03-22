@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumerableExtensions", "EnumerableExtensions\EnumerableExtensions.csproj", "{658E4183-BA8A-4735-97C3-447D1F7C3D26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{658E4183-BA8A-4735-97C3-447D1F7C3D26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{658E4183-BA8A-4735-97C3-447D1F7C3D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{658E4183-BA8A-4735-97C3-447D1F7C3D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{658E4183-BA8A-4735-97C3-447D1F7C3D26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54474C74-AAD6-4B5F-8F1F-403F3F50FF90}
+	EndGlobalSection
+EndGlobal
