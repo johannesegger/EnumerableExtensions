@@ -28,6 +28,7 @@ namespace LinqTest
                 .ToList();
             Console.WriteLine(string.Join(", ", filteredList2));
 
+            list.GroupAdjacent();
         }
     }
 }
