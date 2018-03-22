@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumerableExtensions", "EnumerableExtensions\EnumerableExtensions.csproj", "{658E4183-BA8A-4735-97C3-447D1F7C3D26}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqTest", "LinqTest\LinqTest.csproj", "{073D92C8-33EE-4C5C-B8B2-DBF5CC566E9D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{658E4183-BA8A-4735-97C3-447D1F7C3D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{658E4183-BA8A-4735-97C3-447D1F7C3D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{658E4183-BA8A-4735-97C3-447D1F7C3D26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{073D92C8-33EE-4C5C-B8B2-DBF5CC566E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{073D92C8-33EE-4C5C-B8B2-DBF5CC566E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{073D92C8-33EE-4C5C-B8B2-DBF5CC566E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{073D92C8-33EE-4C5C-B8B2-DBF5CC566E9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
